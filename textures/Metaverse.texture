@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Metaverse",
+  "identifier": "texture:214123-00149dba-9b2c-452b-8d62-d39b642d7476",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "8ec6c94ff78cb6efe8965ce961ae3261",
+  "assetLocator": "textures/Metaverse.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "8ec6c94ff78cb6efe8965ce961ae3261",
+      "colorCount": 25721,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.784443234220459,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}
